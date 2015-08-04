@@ -1,0 +1,46 @@
+#site-header, #site-footer {
+  background: #6ab47b;
+  border-color: #599a68; 
+}
+
+#site-header {
+	border-bottom: 5px solid #599a68; 
+}
+
+.page-content {
+	// background:#368a49;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:active, a:hover {
+	outline: 0;
+}
+
+
+
+/* COLORS */
+
+
+
+a {
+	text-decoration: none;
+	color: #599a68;
+}
+
+/* links */
+a {
+  color: #6ab47b;
+}
+
+/* nav link */
+nav a, nav a:visited {
+  color: #fff;
+}
+
+/* selected nav link*/
+nav a.selected, nav a:hover {
+  color: #32673f;
+}

@@ -1,0 +1,34 @@
+# Site settings
+title: Taiwan Travels
+email: hwangangela99@hotmail.com
+description: A high schooler's documentation of her weeklong road trip around Taiwan.
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://taiwantravels.me" # the base hostname & protocol for your site
+twitter_username: hwang_ange
+github_username:  hwangange
+paginate: 3
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#/:URL will only contain domain + blog post 
+
+#Default settings
+defaults:
+ -
+  scope:
+   path: "" # an empty string here means all files int he project
+   type: "posts" #previously 'post' in Jekyll 2.2.
+  values:
+   author: Angela Hwang
+   layout: "post"
+   category: taiwan
+   comments: true
+
+ -
+  scope:
+   path: "" # an empty string here means all files int he project
+   type: "pages" 
+  values:
+   layout: "page"
