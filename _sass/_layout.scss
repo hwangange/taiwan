@@ -234,3 +234,31 @@
         }
     }
 }
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.rotate270 {
+  -moz-transform: rotate(270deg); 
+  -webkit-transform: rotate(270deg); 
+  filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', 
+    M11=0.9659258262, M12=-0.2588190451, 
+    M21=0.2588190451, M22=0.9659258262); 
+}
+
+.big-img {
+    width: 50%;
+    height: 50%;
+    margin: 5%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
