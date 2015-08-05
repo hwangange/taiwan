@@ -13,6 +13,20 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+
+#site-header, #site-footer {
+  background: #6ab47b;
+  border-color: #599a68; 
+}
+
+#site-header {
+    border-bottom: 5px solid #599a68; 
+}
+
+#site-footer {
+    border-top: 5px solid #599a68;
+}
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -99,6 +113,17 @@ a {
 
     &:hover {
         color: $text-color;
+    }
+}
+
+#site-footer,#site-header {
+    color: $side-text-color;
+    a {
+        color: $side-text-color;
+
+        &:hover {
+            color: $side-hover-color;
+        }
     }
 }
 
@@ -198,7 +223,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $side-text-color;
         }
     }
 }
