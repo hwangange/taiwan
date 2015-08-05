@@ -8,6 +8,8 @@ url: "http://taiwantravels.me" # the base hostname & protocol for your site
 twitter_username: hwang_ange
 github_username:  hwangange
 paginate: 3
+embedly:
+  api_key: 8e1f0253ba7242a3bbe3cf5b742225dd
 
 # Build settings
 markdown: kramdown
