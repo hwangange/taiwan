@@ -10,9 +10,9 @@ github_username:  hwangange
 paginate: 3
 
 #embed
-gems: [json, domainatrix]
-embedly:
-  api_key: 8e1f0253ba7242a3bbe3cf5b742225dd
+#gems: [json, domainatrix]
+#embedly:
+#  api_key: 8e1f0253ba7242a3bbe3cf5b742225dd 
 
 #pages
 pages_list:       
