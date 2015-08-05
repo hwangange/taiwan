@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+First of all, thanks for checking out my blog!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm Angela, a high-schooler currently residing in Texas. I am of Chinese and Taiwanese descent, so do expect Mandarin phrases to pop up here and there in my blog posts. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Taiwan Travels is based on my family's road trip around Taiwan during July 2015. I absolutely LOVE road trips, so you can guess why I wanted to blog our journey! I also wanted to try creating a website using Jekyll, a task that surprisingly requires very little coding. 
+
+Thus, a blog was born. :D Enjoy.
