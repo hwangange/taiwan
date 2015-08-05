@@ -8,9 +8,16 @@ url: "http://hwangange.github.io./taiwan" # the base hostname & protocol for you
 twitter_username: hwang_ange
 github_username:  hwangange
 paginate: 3
+
+#embed
 gems: [json, domainatrix]
 embedly:
   api_key: 8e1f0253ba7242a3bbe3cf5b742225dd
+
+#pages
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
 
 # Build settings
 markdown: kramdown
