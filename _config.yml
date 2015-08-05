@@ -3,7 +3,7 @@ title: Taiwan Travels
 email: hwangangela99@hotmail.com
 description: A high schooler's documentation of her weeklong road trip around Taiwan.
 #baseurl: "" # the subpath of your site, e.g. /blog/
-baseurl: '/taiwan'
+#baseurl: '/taiwan/'
 url: "http://hwangange.github.io./taiwan" # the base hostname & protocol for your site
 twitter_username: hwang_ange
 github_username:  hwangange
