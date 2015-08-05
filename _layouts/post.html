@@ -16,4 +16,7 @@ layout: default
     {{ content }}
   </article>
 
+  <!-- include code from disqus.html and creates unique ID for each post comment thread in disqus system -->
+  {% include disqus.html disqus_identifier=page.disqus_identifier %} 
+
 </div>
